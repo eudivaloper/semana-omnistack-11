@@ -1,11 +1,28 @@
+<h4 align="center">
+<img src="logo3x.png" width="250px" /><br>
+ <b>🚀 Semana OmniStack 11.0</b> 🦸‍♂️
+</h4>
+<p align="center">
+  <a href="https://rocketseat.com.br">
+    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-red">
+  </a>
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-red">
+</p>
+
+<br>
+
 ## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
-- [React Native](https://facebook.github.io/react-native/)
-- [Expo](https://expo.io/)
+- [Express](https://expressjs.com/pt-br/)
+- [Nodemon](https://www.npmjs.com/package/nodemon)
+- [Axios](https://www.npmjs.com/package/axios)
+- [Cors](https://www.npmjs.com/package/cors)
+- [Eslint](https://www.npmjs.com/package/eslint)
+- [Jest](https://www.npmjs.com/package/jest)
 
 ## 💻 Projeto
 
