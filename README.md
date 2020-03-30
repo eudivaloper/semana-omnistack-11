@@ -1,6 +1,6 @@
 <h4 align="center">
 <img src="logo3x.png" width="250px" /><br>
- <b>🚀 Semana OmniStack 11.0</b>
+ <b>Semana OmniStack 11.0 🚀 </b>
 </h4>
 <p align="center">
   <a href="https://rocketseat.com.br">
@@ -8,8 +8,6 @@
   </a>
   <img alt="License" src="https://img.shields.io/badge/license-MIT-red">
 </p>
-
-<br>
 
 ## :rocket: Tecnologias
 
