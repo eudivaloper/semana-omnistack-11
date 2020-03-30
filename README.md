@@ -1,6 +1,6 @@
 <h4 align="center">
 <img src="logo3x.png" width="250px" /><br>
- <b>🚀 Semana OmniStack 11.0</b> 🦸‍♂️
+ <b>🚀 Semana OmniStack 11.0</b>
 </h4>
 <p align="center">
   <a href="https://rocketseat.com.br">
